@@ -3,8 +3,8 @@
 //Autores:
 //Michael Steve Hurtado Bejarano	
 //Jeanpier Michaelson Valera Yana
-//
-//
+//Maicol Daniel SUma Condori
+//Gabriela Nayely Borda Espinoza
 //Tiempo:  1:30 minutos
 
 
